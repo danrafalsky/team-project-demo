@@ -1,0 +1,9 @@
+body {
+  background-color: #fff;
+  color: tomato;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
