@@ -1,0 +1,9 @@
+body {
+  background-color: #fff;
+  color: red;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
